@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com" xsi:schemaLocation="http://www.zeroturnaround.com/alderaan/rebel-2_0.xsd">
+
+	<classpath>
+		<dir name="C:/Users/13275/Documents/Java/Java-project/mySpring/mySpring-mini/src/main/resources">
+			<include name="**/*"/>
+		</dir>
+		<dir name="C:/Users/13275/Documents/Java/Java-project/mySpring/mySpring-mini/src/main/java">
+			<exclude name="**/*.java"/>
+			<exclude name="**/*.class"/>
+		</dir>
+		<dir name="C:/Users/13275/Documents/Java/Java-project/mySpring/mySpring-mini/target/classes">
+		</dir>
+	</classpath>
+
+</application>

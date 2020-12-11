@@ -1,0 +1,8 @@
+com\xupt\starter\HelloFormatTemplate.class
+com\xupt\starter\autoConfiguration\HelloAutoConfiguration.class
+com\xupt\starter\autoConfiguration\HelloProperties.class
+com\xupt\starter\autoConfiguration\FormatAutoConfiguration.class
+com\xupt\starter\format\FormatProcessor.class
+META-INF\spring-configuration-metadata.json
+com\xupt\starter\format\JsonFormatProcessor.class
+com\xupt\starter\format\StringFormatProcessor.class

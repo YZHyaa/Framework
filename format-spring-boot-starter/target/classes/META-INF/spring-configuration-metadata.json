@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xupt.starter.autoConfiguration.HelloProperties",
+      "name": "hello.format",
+      "type": "com.xupt.starter.autoConfiguration.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xupt.starter.autoConfiguration.HelloProperties",
+      "name": "hello.format.info",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.xupt.starter.autoConfiguration.FormatAutoConfiguration,\
+  com.xupt.starter.autoConfiguration.HelloAutoConfiguration

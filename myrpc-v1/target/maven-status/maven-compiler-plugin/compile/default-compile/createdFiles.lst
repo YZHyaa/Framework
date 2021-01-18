@@ -1,6 +1,0 @@
-com\xupt\yzh\rpc\consumer\RpcProxyClient.class
-com\xupt\yzh\rpc\api\RpcRequest.class
-com\xupt\yzh\rpc\consumer\RpcNetTransport.class
-com\xupt\yzh\rpc\provider\ProcessorHandler.class
-com\xupt\yzh\rpc\consumer\RemoteInvocationHandler.class
-com\xupt\yzh\rpc\provider\RpcServerProxyServer.class

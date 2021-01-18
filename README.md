@@ -18,5 +18,5 @@
   * [【MyBatis】手写简易ORM框架（仿mybatis）](https://blog.csdn.net/weixin_43935927/article/details/111409384)
 * myrpc-v1：
   * [【RPC】基于 BIO 手写简易 RPC 框架（version1）](https://blog.csdn.net/weixin_43935927/article/details/112775384)
-* myrpc-v2：
+* myrpc-v2/v3：
   * [【RPC】基于 BIO 手写简易 RPC 框架（version2）](https://blog.csdn.net/weixin_43935927/article/details/112792845)

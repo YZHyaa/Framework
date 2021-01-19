@@ -19,4 +19,7 @@
 * myrpc-v1：
   * [【RPC】基于 BIO 手写简易 RPC 框架（version1）](https://blog.csdn.net/weixin_43935927/article/details/112775384)
 * myrpc-v2/v3：
-  * [【RPC】基于 BIO 手写简易 RPC 框架（version2）](https://blog.csdn.net/weixin_43935927/article/details/112792845)
+  * [【RPC】手写简易 RPC 框架 --重构，实现与 Spring 整合](https://blog.csdn.net/weixin_43935927/article/details/112792845)
+* myrpc-netty：
+  * [【RPC】手写简易 RPC 框架 --重构，实现基于 Netty 通信](https://blog.csdn.net/weixin_43935927/article/details/112846599)
+

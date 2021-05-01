@@ -1,0 +1,9 @@
+com\yzh\demo\Customer.class
+com\yzh\demo\myproxy\MyProxyTest.class
+com\yzh\myproxy\MyClassLoader.class
+com\yzh\myproxy\MyProxy.class
+com\yzh\demo\jdkproxy\JDKMeipo.class
+com\yzh\demo\myproxy\MyMeipo.class
+com\yzh\demo\Person.class
+com\yzh\demo\jdkproxy\JDKProxyTest.class
+com\yzh\myproxy\MyInvocationHandler.class

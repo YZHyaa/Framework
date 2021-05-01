@@ -1,5 +1,7 @@
 一些手写框架实现，包括手写spring核心，orm框架、rpc框架、tomcat等
 
+* myJdkDynamic
+  * [【Java杂记】代理：手动实现一个简易动态代理](https://yzhyaa.blog.csdn.net/article/details/116305914) 
 * myTomcat-bio：
   * [【Tomcat】第八篇：150代码手写Tomcat（基于BIO，超详细注释）](https://blog.csdn.net/weixin_43935927/article/details/108743213)
 * myTomcat-netty：
